@@ -1,0 +1,7 @@
+DROP TABLE IF EXISTS judge_event;
+DROP TABLE IF EXISTS mark;
+DROP TABLE IF EXISTS competitor;
+DROP TABLE IF EXISTS event;
+DROP TABLE IF EXISTS judge;
+DROP TABLE IF EXISTS competitor_event;
+DROP TABLE IF EXISTS competitor_competitor;
